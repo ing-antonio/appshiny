@@ -1,0 +1,53 @@
+usuarios:
+  - usuario: alvaro
+    password: 1234
+    alcaldia: "Álvaro Obregón"
+  - usuario: azcapo
+    password: 1234
+    alcaldia: "Azcapotzalco"
+  - usuario: benito
+    password: 1234
+    alcaldia: "Benito Juárez"
+  - usuario: coyoacan
+    password: 1234
+    alcaldia: "Coyoacán"
+  - usuario: cuajimalpa
+    password: 1234
+    alcaldia: "Cuajimalpa de Morelos"
+  - usuario: cuauhtemoc
+    password: 1234
+    alcaldia: "Cuauhtémoc"
+  - usuario: gam
+    password: 1234
+    alcaldia: "Gustavo A. Madero"
+  - usuario: iztacalco
+    password: 1234
+    alcaldia: "Iztacalco"
+  - usuario: iztapalapa
+    password: 1234
+    alcaldia: "Iztapalapa"
+  - usuario: mlc
+    password: 1234
+    alcaldia: "La Magdalena Contreras"
+  - usuario: miguelh
+    password: 1234
+    alcaldia: "Miguel Hidalgo"
+  - usuario: milpaalta
+    password: 1234
+    alcaldia: "Milpa Alta"
+  - usuario: tlahuac
+    password: 1234
+    alcaldia: "Tláhuac"
+  - usuario: tlalpan
+    password: 1234
+    alcaldia: "Tlalpan"
+  - usuario: vcz
+    password: 1234
+    alcaldia: "Venustiano Carranza"
+  - usuario: xochimilco
+    password: 1234
+    alcaldia: "Xochimilco"
+  - usuario: admin
+    password: 1234
+    alcaldia: "TODAS"
+
